@@ -54,10 +54,3 @@ jupyter notebook AI_ML_Task2_Model_Comparison.ipynb
 
 4. Run all cells to execute the pipeline and view the actual vs. predicted visualization plots.
 
----
-
-
-
-```
-
-```
