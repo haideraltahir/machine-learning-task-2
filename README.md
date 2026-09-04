@@ -36,8 +36,7 @@ The **Decision Tree Regressor** was selected as the best-performing model[cite: 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-
-```
+``
 
 2. Install the required dependencies:
 ```bash
